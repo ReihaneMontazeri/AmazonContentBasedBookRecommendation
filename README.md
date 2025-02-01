@@ -1,4 +1,4 @@
-# AmazonContentBasedBookRecommendation
+# Amazon Content Based Book Recommendation
 This project is a Book Recommendation System built using the Amazon Books dataset. The goal of the project is to help users discover books they will love based on the content of books they've enjoyed in the past. It uses a Content-Based Filtering approach to recommend books based on their descriptions and categories.  
 Book Recommendation System (Content-Based Filtering)
 Welcome to my Book Recommendation System project! This system uses machine learning and natural language processing techniques to recommend books based on their content. The goal of the system is to suggest books that match a user's interests based on the books they've already read.
